@@ -3,4 +3,4 @@ pandas
 numpy 
 pickle5
 scikit-learn
-Flask>=2.2.2
+Flask
